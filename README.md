@@ -9,7 +9,7 @@ To successfully connect to a database we need a JDBC driver. This is a set of cl
 The JDBC driver creates a connection to the database and implements the protocol of transferring queries and resultsets between the client application and the database.
 
 
-#### Steps when using JDBC
+#### Steps when using JDBC:
 
 1. Load the JDBC driver.
 2. Establish database connection
